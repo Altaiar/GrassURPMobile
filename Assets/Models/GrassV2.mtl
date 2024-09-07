@@ -1,0 +1,13 @@
+# Blender 4.2.1 LTS MTL File: 'GrassV2.blend'
+# www.blender.org
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd C:/Users/shate/Downloads/Compressed/plants_0002_2k_4KdYse/plants_0002_color_2k.jpg
+map_d C:/Users/shate/Downloads/Compressed/plants_0002_2k_4KdYse/plants_0002_opacity_2k.jpg
+map_Bump -bm 1.000000 C:/Users/shate/Downloads/Compressed/plants_0002_2k_4KdYse/plants_0002_normal_directx_2k.png
