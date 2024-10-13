@@ -25,7 +25,8 @@
 
 # Visual Studio cache directory
 .vs/
-
+#//anoterCash
+.utmp
 # Gradle cache directory
 .gradle/
 
