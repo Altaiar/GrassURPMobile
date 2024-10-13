@@ -13,6 +13,7 @@ most of graphical features are turned off because of testing purposes so u need 
 <br>
 UPDATE 1.2
 Performance improvement Frame is always above 40 avg 45
+<br>
 UPDATE 1.3
 Performance improvement by optimizing textures and more... Frame is 49 - 51
 
