@@ -13,4 +13,7 @@ most of graphical features are turned off because of testing purposes so u need 
 <br>
 UPDATE 1.2
 Performance improvement Frame is always above 40 avg 45
-![Demo](https://github.com/user-attachments/assets/69407bb3-0937-48de-bc5e-89551317d6d9)
+UPDATE 1.3
+Performance improvement by optimizing textures and more... Frame is 49 - 51
+
+![Movie_006-ezgif com-optimize](https://github.com/user-attachments/assets/7b1bbc53-3a6f-46c7-9f5d-46e5d132e205)
