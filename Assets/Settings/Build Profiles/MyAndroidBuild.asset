@@ -43,7 +43,7 @@ MonoBehaviour:
     - line: '|   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b:
         0.1254902, a: 1}'
     - line: '|   m_ShowUnitySplashScreen: 1'
-    - line: '|   m_ShowUnitySplashLogo: 1'
+    - line: '|   m_ShowUnitySplashLogo: 0'
     - line: '|   m_SplashScreenOverlayOpacity: 1'
     - line: '|   m_SplashScreenAnimation: 1'
     - line: '|   m_SplashScreenLogoStyle: 1'
@@ -212,7 +212,7 @@ MonoBehaviour:
     - line: '|   keepLoadedShadersAlive: 0'
     - line: '|   StripUnusedMeshComponents: 0'
     - line: '|   strictShaderVariantMatching: 0'
-    - line: '|   VertexChannelCompressionMask: 4054'
+    - line: '|   VertexChannelCompressionMask: 214'
     - line: '|   iPhoneSdkVersion: 988'
     - line: '|   iOSSimulatorArchitecture: 0'
     - line: '|   iOSTargetOSVersionString: 13.0'
@@ -1003,7 +1003,7 @@ MonoBehaviour:
         m_ExportAsGoogleAndroidProject: 0
         m_DebugSymbolLevel: 1
         m_DebugSymbolFormat: 5
-        m_CurrentDeploymentTargetId: 386de0581220
+        m_CurrentDeploymentTargetId: __builtin__target_default
         m_BuildType: 1
         m_BuildAppBundle: 0
         m_IPAddressToConnect: 

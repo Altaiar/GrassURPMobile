@@ -5,11 +5,11 @@ OcclusionCullingSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_OcclusionBakeSettings:
-    smallestOccluder: 2
+    smallestOccluder: 2.5
     smallestHole: 0.25
     backfaceThreshold: 100
   m_SceneGUID: 01339500fa1706c4098222accf043717
-  m_OcclusionCullingData: {fileID: 36300000, guid: 94c0b68cec7aabb4b8b6985032c41b32,
+  m_OcclusionCullingData: {fileID: 36300000, guid: a98188ac60d8cac44ba6f46dc9d7dd0c,
     type: 2}
 --- !u!104 &2
 RenderSettings:
@@ -1285,7 +1285,7 @@ MonoBehaviour:
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
   m_RenderPostProcessing: 0
-  m_Antialiasing: 1
+  m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
   m_Dithering: 0
@@ -2873,7 +2873,7 @@ Terrain:
   m_TreeMaximumFullLODCount: 50
   m_DetailObjectDistance: 60
   m_DetailObjectDensity: 1
-  m_HeightmapPixelError: 10
+  m_HeightmapPixelError: 50
   m_SplatMapDistance: 1000
   m_HeightmapMinimumLODSimplification: 1
   m_HeightmapMaximumLOD: 2
