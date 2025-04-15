@@ -575,6 +575,25 @@ MonoBehaviour:
   scale:
     m_OverrideState: 1
     m_Value: 1
+--- !u!114 &-477373571226379580
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1359734e72841e4291b7eeb1db26201, type: 3}
+  m_Name: VRSVolumeComponent
+  m_EditorClassIdentifier: 
+  active: 1
+  centerShadingRate:
+    m_OverrideState: 1
+    m_Value: 0.2
+  cornerShadingRate:
+    m_OverrideState: 1
+    m_Value: 0.05
 --- !u!114 &-432151791376815765
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -629,6 +648,7 @@ MonoBehaviour:
   - {fileID: -6928439637628833377}
   - {fileID: 2802380107490971428}
   - {fileID: -6884466444761784084}
+  - {fileID: -477373571226379580}
 --- !u!114 &352397129847534137
 MonoBehaviour:
   m_ObjectHideFlags: 3

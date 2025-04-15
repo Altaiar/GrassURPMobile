@@ -9,3 +9,4 @@ EditorBuildSettings:
     path: Assets/Scenes/GrassTest.unity
     guid: 01339500fa1706c4098222accf043717
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
