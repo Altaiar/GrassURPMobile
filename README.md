@@ -16,5 +16,10 @@ Performance improvement Frame is always above 40 avg 45
 <br>
 UPDATE 1.3
 Performance improvement by optimizing textures and more... Frame is 49 - 51
-
+<br>
+UPDATE 1.4
+small Performance improvement there also codes for dynamic res u need to activaing it in UI and its script in is the scene its already there u need to config it for your desired frame rate.
+<br>
+UPDATE 1.5
+small Performance improvements.
 ![Movie_006-ezgif com-optimize](https://github.com/user-attachments/assets/7b1bbc53-3a6f-46c7-9f5d-46e5d132e205)
