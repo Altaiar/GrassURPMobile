@@ -1052,8 +1052,8 @@
     "m_ObjectId": "374a2deadf9243e7b5e53222933d7730",
     "m_Title": "SteadyBottom",
     "m_Position": {
-        "x": -1788.0001220703125,
-        "y": -1774.0001220703125
+        "x": -1788.0,
+        "y": -1774.0
     }
 }
 
@@ -2004,6 +2004,7 @@
     },
     "isMainTexture": false,
     "useTilingAndOffset": false,
+    "useTexelSize": true,
     "m_Modifiable": true,
     "m_DefaultType": 0
 }
@@ -2522,7 +2523,7 @@
     "m_Title": "Texturing and Alpha",
     "m_Position": {
         "x": -1196.0,
-        "y": 118.0000228881836
+        "y": 117.9998779296875
     }
 }
 
