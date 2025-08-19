@@ -22,6 +22,7 @@ small Performance improvement there also codes for dynamic res u need to activai
 <br>
 UPDATE 1.5
 small Performance improvements.
+<br>
 UPDATE 1.6
 Update project files for unity 6
 ![Movie_006-ezgif com-optimize](https://github.com/user-attachments/assets/7b1bbc53-3a6f-46c7-9f5d-46e5d132e205)
